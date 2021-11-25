@@ -1,0 +1,14 @@
+{
+  "name": "@types/ncms-type-tools",
+  "version": "1.0.0",
+  "description": "ncms研发体系常用类型工具",
+  "main": "src/index",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:ncom/component-types.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "esNext",
+    "target": "es2016",
+    "outDir": "build",
+    "jsx": "preserve",
+    "allowJs": true,
+    "jsxFactory": "createElement",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "baseUrl": "."
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
